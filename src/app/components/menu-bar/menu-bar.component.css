@@ -1,0 +1,15 @@
+.container__menu-bar > ul{
+  display: flex;
+  flex-direction: row;
+}
+
+.container__menu-bar > ul > li {
+  margin-right: 1.25rem;
+  list-style: none;
+  font-size: 1.25rem;
+}
+
+a:hover {
+  color: rgb(225, 225, 225);
+  transition: all 0.2s;
+}
