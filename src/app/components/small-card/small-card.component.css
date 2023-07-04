@@ -20,6 +20,10 @@
   align-items: center;
 }
 
+.small-card__title > h1{
+  font-size: 1.25rem;
+}
+
 .container__small-card__separator > hr {
   margin-top: 10px;
   border-color: rgb(20, 20, 20);
